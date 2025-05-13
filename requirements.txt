@@ -7,3 +7,4 @@ rembg
 fpdf 
 python-docx
 pdf2image
+onnxruntime
