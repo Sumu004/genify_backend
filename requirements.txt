@@ -2,4 +2,8 @@ flask
 flask-cors
 firebase-admin
 gunicorn
-
+pillow 
+rembg 
+fpdf 
+python-docx
+pdf2image
